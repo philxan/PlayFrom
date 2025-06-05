@@ -20,7 +20,7 @@ The drop down box lists the Rehearsal Marks you've added, and the measures that 
 
 **Lead In**\
 This option begins the playback from the specified number of measures prior to the selected option. Of course, when playing from the "Start" Rehearsal Mark, the lead in has no effect.
-Three choices are provided, no lead in ("---"), 1 measure, and 2 measures. 
+Three choices are provided, no lead in ("--"), 1 measure, and 2 measures. 
 
 **Play**\
 Begin playback using the selection options. 
@@ -44,6 +44,10 @@ To install the plugin:
 To use the plugin:
 1. Select the menu item Plugins > PitDad Tools > Play From.  
 1. Select the appropriate options, as described above, and click "Play"
+
+Acknowledgements
+-------------
+Thanks to the user Lycalp on the Musescore.org forums for the inspiration for this plugin.
    
 Release History
 -------------
